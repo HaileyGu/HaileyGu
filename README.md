@@ -2,10 +2,6 @@
 <p><a href="https://github.com/haileygu"><img src="https://camo.githubusercontent.com/78dc725e665b9caca69081151128d0a54e1057f7d63d8639ab9bc39f4aff7dcb/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d6c61786d656e612e6c61786d656e61" alt="Visitor" data-canonical-src="https://visitor-badge.laobi.icu/badge?page_id=haileygu.haileygu" style="max-width:100%;"></a> <a href="https://github.com/haileygu?tab=followers"><img src="https://camo.githubusercontent.com/44be8755a855677eb907651adc014652f3804f2654c36f39a2cf2eb41e821455/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f6c61786d656e612e7376673f7374796c653d736f6369616c266c6162656c3d466f6c6c6f77" alt="GitHub followers" data-canonical-src="https://img.shields.io/github/followers/haileygu.svg?style=social&amp;label=Follow" style="max-width:100%;"></a></p>
 
 <!--
-**HaileyGu/HaileyGu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,7 +11,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-✨ Here is my Hobby Space for what I do for “fun”
+✨ Here is my Hobby Space for what I do for "fun"
+
 🌱 I’m currently learning Creative Coding :)
 
 
