@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Hailey's GitHub stats](https://github-readme-stats.vercel.app/api?username=haileygu&count_private=true&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haileygu&theme=calm&hide=HTML,CSS&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haileygu&theme=calm&hide=HTML,CSS&include_all_commits=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
