@@ -11,7 +11,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-✨ Here is my Hobby Space for what I do for "fun"
+✨ Here is my Hobby Space for what I do for "FUN"
 
 🌱 I’m currently learning Creative Coding :)
 
